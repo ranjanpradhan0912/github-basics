@@ -1,2 +1,2 @@
 #Basics
-Getting started with github and git.
+Getting started with github and git
